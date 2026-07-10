@@ -1,1 +1,1 @@
-# Hi: This repor is purly for Python Bigineers
+# Hi: This repor is purly for Python Biginners
